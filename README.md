@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josy1024
 - 👀 interested in: standup paddle boarding, mtb to slacklineing, diy-projecs, [cnc milling](https://www.etsy.com/shop/cncsandbox), playing guitar and ukulele.
 - 🌱 i'm currentyl learning how to deal with parenting, c# 
-- I am doing "Information Technology" at gugler gmbh (Enable People using Technology) currently living in Mühldorf, Österreich
+- I am doing "Information Technology" at gugler medien gmbh (Enable People using Technology) currently living in Mühldorf, Österreich
 - 💞️ I’m looking to collaborate on homeassistent and smartmeter integration
 - 📫  If you’d like to get in touch, feel free to say hello through any of the social links below.
   * https://www.instagram.com/josef1024/
