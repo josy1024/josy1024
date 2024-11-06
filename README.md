@@ -26,11 +26,13 @@
   * Code: vscode, Powershell, c#, SQL, REST/API, JSON, gohugo
   * Service & Monitoring: Icinga, Otrs
   * LineOfBusiness: Printplus.ch, BMD.com
+  * Security, Network: Fortinet, Cisco, Defender, iptables
     
 - some time ago:
   * 2000: HTBLuVA St Pölten Abteilung Elektrotechnik
   * 2009: Microsoft Certified System Administrator, Microsoft Certified System Engineer
   * 2015: Implementing Microsoft Azure Infrastructure Solutions
+  
 
 <!---
 josy1024/josy1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
