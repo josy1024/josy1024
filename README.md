@@ -19,9 +19,18 @@
   * https://www.instagram.com/josef1024/
   * https://www.twitter.com/josy1024
  
-- my Preferred Tech Stack: [DRAFT]
-  * Microsoft: PowerBI, HyperV, Microsoft365, Powershell
-  * Databases: MSSQL, MYSQL
+- my Current / Preferred Tech Stack Knowledge: 
+  * Windows: HyperV, Microsoft365
+  * Linux: Centos, Rocky, PuppetLabs, Podman, Raspian, Apache, LAMP
+  * Data: MSSQL, MYSQL, PowerBI 
+  * Code: vscode, Powershell, c#, SQL, REST/API, JSON, gohugo
+  * Service & Monitoring: Icinga, Otrs
+  * LineOfBusiness: Printplus.ch, BMD.com
+    
+- some time ago:
+  * 2000: HTBLuVA St Pölten Abteilung Elektrotechnik
+  * 2009: Microsoft Certified System Administrator, Microsoft Certified System Engineer
+  * 2015: Implementing Microsoft Azure Infrastructure Solutions
 
 <!---
 josy1024/josy1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
