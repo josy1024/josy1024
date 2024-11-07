@@ -1,3 +1,5 @@
+[About Me in German, (über mich auf Deutsch)](/ÜberMich.md)
+
 - 👋 Hi, I’m @josy1024
 - 👀 interested in: standup paddle boarding, mtb to slacklineing, diy-projecs, [cnc milling](https://www.etsy.com/shop/cncsandbox), playing guitar and ukulele
 - 🌱 i'm currently learning how to deal with parenting, c#, creating custom minecraft packs
@@ -8,16 +10,7 @@
   * https://www.instagram.com/josef1024/
   * https://www.twitter.com/josy1024
 
-- 👋 Hey ich bin Josy!
-- 👀 mich interessiert: standup paddle boarding, 🚵, slackline, DoItYourself-Projekte, [cnc milling](https://www.etsy.com/shop/cncsandbox), Gitarre and Ukulele spielen
-- 🌱 ich lerne gerade: leben als vollzeit-papa, c#, und minecraft mods
-- ⚙️ 🔌gugler medien gmbh (Helfe Kollegen intelligent Informations-Technologie zu verwenden)
-- 🌍 lebe seit 2021 in Mühldorf, Österreich
-- 💞️ bin offen für Zusammenarbeit bei Haussteuerung und Smartmeter Integration [home-automation-guide...](https://github.com/josy1024/home-automation-guide)
-- 💙 bin Rookie beim Surfen 🏄‍♂️surfing and kayak. 
-- 📫  Wenn du mit mir in Kontakt treten möchtest, schick mir ein 'Hey' über eine der folgenden Plattformen:
-  * https://www.instagram.com/josef1024/
-  * https://www.twitter.com/josy1024
+
  
 - my Current / Preferred Tech Stack Knowledge: 
   * Windows: HyperV, Microsoft365
