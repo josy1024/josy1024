@@ -1,7 +1,7 @@
 👋 Hey, ich bin Josy!
 - 👀 mich interessiert: standup paddle boarding, 🚵, slackline, DoItYourself-Projekte, cnc milling, Gitarre and Ukulele spielen
 - 🌱 ich lerne gerade: leben als vollzeit-papa, c#, und minecraft mods
-- ⚙️ 🔌gugler medien gmbh (Helfe Kollegen intelligent Informations-Technologie zu verwenden)
+- ⚙️ 🔌gugler medien gmbh (Helfe Kollegen intelligent Informations-Technologie zu verwenden) [😎 RelaxedIT](RelaxedIT.md])
 - 🌍 lebe seit 2021 in Mühldorf, Österreich
 - 💞️ bin offen für Zusammenarbeit bei Haussteuerung und Smartmeter Integration home-automation-guide...
 - 💙 bin Rookie beim Surfen 🏄‍♂️surfing and kayak.
