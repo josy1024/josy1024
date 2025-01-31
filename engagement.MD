@@ -24,15 +24,15 @@ sei neugierig auf das neue!
 
 ### organisation
 
-- flutschende prozesse 
+- flutschende prozesse
 - wiederholbare prozesse, die automatisierbar werden (produktivität)
 - schnelle ergebnisse (better done than perfekt)
+- best pracices, verschwendung reduzieren (lean)
 - projektabwicklung (mvp)
-- best pracices
 - abweichungen und fehler sind willkommen = potentiale (wasabi)
 - ziele / plan / strategie
 - kleine verbesserungen (kaizen)
-- analyse, was muss erfasst werden
+- analyse, was muss erfasst werden (measure => build => learn => repeat...)
 
 ### kultur lernen wachstum
 
