@@ -39,3 +39,6 @@ sei neugierig auf das neue!
 - transparenz, kommunikation
 - motivierte teams
 - leadership vs gemeinsame führung
+
+
+[[Legende]]
