@@ -37,13 +37,13 @@ is complete
 
 ## prinzipien
 
-* kanban: Projekt/Task abwicklung in Schwimmbahn Prinzip
-* okr: objective and key results, (3M cycle: Planning, Weekly, Review, Retro)
+* _kanban_: Projekt/Task abwicklung in Schwimmbahn Prinzip
+* okr: objective and key results, (3M cycle: Planning, Weekly, Review, Retro) 
 * moals: (Mid term gOALs) LanzeitZiele
-* daki: retrospektive (delete, add, keep, improve)
-* segelboot retro: (was hat uns angetrieben, was hat uns gezogen, was hat uns gehindert, was hat uns zurück gehalten)
 * die *OK karte*: es ist ok zu gehen, wenn ich nichts mehr beitragen kann, oder drauf hinzuweisen, dass hier nicht der platz und raum ist.
 * SMART: (Spezifisch, Messbar, Erreichbar, Realistisch, Terminiert)
+* daki: retrospektive (delete, add, keep, improve) https://retromat.org/de/
+* segelboot retro: (was hat uns angetrieben, was hat uns gezogen, was hat uns gehindert, was hat uns zurück gehalten)
 
 * KAIZEN
 Focus on small improvements each day, instead of trying to do everything at once.
