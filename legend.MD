@@ -30,7 +30,7 @@ is complete
 * deployinator: script zur automatischen verteilung von versionierten scripten 
 * kiss: (keep it small an simple)
 * devop: (develop an run!)
-
+* backcasting: stell dir vor du bist schon da und gehst zurück!
 
 ## prinzipe 
 
