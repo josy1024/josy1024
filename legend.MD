@@ -1,10 +1,4 @@
-* CMDB: ConfigManagement Database - Inventar
-* deployinator: script zur automatischen verteilung von versionierten scripten 
-
-* Matrix
-** Eisenhower Matrix (Wichtig: Relaxed/ Dringend - (vs Unwichtig))
-
-* Software Entwicklung - Reduziere “waste” (Verschwendung) mit Lean 
+## Software Entwicklung - Reduziere “waste” (Verschwendung) mit Lean 
  * unvollständige Software/Scripte (nicht lauffähig, partially done work) 
  * Code / Features, die nicht gebraucht wird (extra features) 
  * Wiederlernen (relearning) 
@@ -13,25 +7,32 @@
  * Verzögerungen im Ablauf (delays) 
  * Fehler (defects)
 
-* LEAN und mvp (minimum valueabel product)
-** Kosten und verschwendungs-Reduktion (reduce cost and waste) 
-** Wert Identifizieren - was macht es aus, was kann es? (identify value) 
-** Wertstromanalyse (map value stream, Prozesskette Prozessmanagement) 
-** flüssige Ablauf (create flow) 
-** Der Kunde kann sich's Holen (establish pull) 
-** Laufende Verbesserung (perfection)
+## LEAN und mvp (minimum valueabel product)
+* Kosten und verschwendungs-Reduktion (reduce cost and waste) 
+* Wert Identifizieren - was macht es aus, was kann es? (identify value) 
+* Wertstromanalyse (map value stream, Prozesskette Prozessmanagement) 
+* flüssige Ablauf (create flow) 
+* Der Kunde kann sich's Holen (establish pull) 
+* Laufende Verbesserung (perfection)
 
 
-* TDD: Test Driven Development
-** Schreib den fehler-Test (write a failing test)
-** Schreib den Programmcode (write the code itselv)
-** Stelle sicher, dass das Test Programm ohne Fehler durchläuft (ensure test passes when the code 
+# TDD: Test Driven Development
+* Schreib den fehler-Test (write a failing test)
+* Schreib den Programmcode (write the code itselv)
+* Stelle sicher, dass das Test Programm ohne Fehler durchläuft (ensure test passes when the code 
 is complete
 
-* kiss (keep it small an simple)
+## Matrix
+** Eisenhower Matrix (Wichtig: Relaxed/ Dringend - (vs Unwichtig))
 
-* devop (develup an run!)
+## ...
+* CMDB: ConfigManagement Database - Inventar
+* deployinator: script zur automatischen verteilung von versionierten scripten 
+* kiss: (keep it small an simple)
+* devop: (develop an run!)
 
+
+## prinzipe 
 
 * kanban
 Projekt/Task abwicklung in Schwimmbahn Prinzip
