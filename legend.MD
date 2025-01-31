@@ -5,13 +5,13 @@
 ** Eisenhower Matrix (Wichtig: Relaxed/ Dringend - (vs Unwichtig))
 
 * Software Entwicklung - Reduziere “waste” (Verschwendung) mit Lean 
-** unvollständige Software/Scripte (nicht lauffähig, partially done work) 
-** Code / Features, die nicht gebraucht wird (extra features) 
-** Wiederlernen (relearning) 
-**  Unnötige Übergaben (unnecessary handoffs)
-** Aufgaben Wechseln (task switching) 
-** Verzögerungen im Ablauf (delays) 
-** Fehler (defects)
+ * unvollständige Software/Scripte (nicht lauffähig, partially done work) 
+ * Code / Features, die nicht gebraucht wird (extra features) 
+ * Wiederlernen (relearning) 
+ *  Unnötige Übergaben (unnecessary handoffs)
+ * Aufgaben Wechseln (task switching) 
+ * Verzögerungen im Ablauf (delays) 
+ * Fehler (defects)
 
 * LEAN und mvp (minimum valueabel product)
 ** Kosten und verschwendungs-Reduktion (reduce cost and waste) 
