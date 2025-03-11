@@ -12,14 +12,14 @@ sei neugierig auf das neue!
 ### Vermögen (capex)
 
 - was ist dein Vermögen? (Server, Clients, IT Inventar CMDB, Infrastruktur, Netzwerk Topo)
-- Strukturen: (Intranet, Bibliothek, Wissen, Schlaues Buch, [Legende](legend.md))
+- Strukturen: (Intranet, Bibliothek, Wissen, Schlaues Buch, [Legende](legend.MD))
 - Daten: (Datenflussdiagramm, DSGVO)
 
 ### was brauchst du für den Betrieb? (opex)
 
 - Schnittstellen
 - Wartungsverträge / Laufzeiten 
-- Hardware, [Software](software.md), Kommunikation (Tel, Mobil, Teams, Chat)
+- Hardware, [Software](software.MD), Kommunikation (Tel, Mobil, Teams, Chat)
 - Brennstoffe, Strom
 
 ### organisation
