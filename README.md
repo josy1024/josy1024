@@ -1,7 +1,7 @@
 [About Me in German, (über mich auf Deutsch)](/ÜberMich.md)
 
 - 👋 Hi, I’m @josy1024
-- 👀 interested in: standup paddle boarding, mtb to slacklineing, diy-projecs, [cnc milling](https://www.etsy.com/shop/cncsandbox), playing guitar and ukulele
+- 👀 interested in: standup paddle boarding, mtb to slacklineing, diy-projecs, [cnc milling](https://www.etsy.com/shop/cncsandbox), [3dprinting](https://github.com/josy1024/GCodePlayground),  playing guitar and ukulele
 - 🌱 i'm currently learning how to deal with parenting, c#, creating custom minecraft packs
 - I am doing "Information Technology" at gugler medien gmbh (Enable People using Technology) currently living in Mühldorf, Österreich
 - 💞️ I’m looking to collaborate on homeassistent and smartmeter integration [home-automation-guide...](https://github.com/josy1024/home-automation-guide)
