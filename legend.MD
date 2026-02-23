@@ -55,3 +55,10 @@ Don’t stuff yourself with food. When you are 80% full, stop eating. This will 
 Approach every task like a beginner with the same curiosity as if you were doing it for the very first time.
 * **WABISABI**  
 Embrace imperfection instead of stressing over every little detail. Taking action is better than waiting for perfection, because it is often unattainable.
+
+## Ideen
+
+* Kenne den Zklus und die Wellen - damit du dich darauf vorbereiten kannst.
+* die Daten folgen dem Benutzer (bzw sind schon da wo er sie braucht)
+* Softwer wird durch KI spezifischer, besser, genauer, Zielgerichteter
+* KI Chancen: Firmen warten nicht dass großen Hersteller implementieren, sondern bauen sich massgeschneiderte kleine Lösungen für ihre Prozesse, Softwarehersteller die ihre Produkte nicht Richtung Schnittstellen und Anknüpfungspunkte erweitern werden schlichtweg nicht mehr genutzt oder durch bessere Produkte ersetzt. Im Umkehrschluss muss die IT immer wieder Software von dritten betreiben mit möglicherweise Technischen Schulden.
