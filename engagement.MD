@@ -11,7 +11,7 @@ sei neugierig auf das neue!
 
 ### Vermögen (capex)
 
-- was ist dein Vermögen? (Server, Clients, IT Inventar CMDB, Infrastruktur, Netzwerk Topo)
+- was ist dein Vermögen? (Server, Clients, IT Inventar CMDB, Infrastruktur, Netzwerk Topo und Segmentierung)
 - Strukturen: (Intranet, Bibliothek, Wissen, Schlaues Buch, [Legende](legend.MD))
 - Daten: (Datenflussdiagramm, DSGVO)
 
@@ -33,6 +33,7 @@ sei neugierig auf das neue!
 - ziele / plan / strategie
 - kleine verbesserungen (kaizen)
 - analyse, was muss erfasst werden (measure => build => learn => repeat...)
+- changelog, inline dokumentation, 
 
 ### kultur lernen wachstum
 
