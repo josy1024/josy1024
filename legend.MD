@@ -11,7 +11,7 @@
 * **Kosten und verschwendungs-Reduktion** (reduce cost and waste) 
 * **Wert Identifizieren** - was macht es aus, was kann es? (identify value) 
 * **Wertstromanalyse** (map value stream, Prozesskette Prozessmanagement) 
-* **flüssige Ablauf** (create flow) 
+* **flüssiger Ablauf** (create flow, **no delegating at the expense of others**) 
 * **Der Kunde kann sich's Holen** (establish pull) 
 * **Laufende Verbesserung** (perfection)
 
