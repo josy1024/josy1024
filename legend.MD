@@ -62,6 +62,14 @@ Approach every task like a beginner with the same curiosity as if you were doing
 * **WABISABI**  
 Embrace imperfection instead of stressing over every little detail. Taking action is better than waiting for perfection, because it is often unattainable.
 
+* **PRAXIS**
+		○ Problem definieren
+		○ Recherche (Verstehen)
+		○ Ausprobieren
+		○ X-faches Testen
+		○ Iterieren (Verbessern)
+		○ Standardisieren
+
 ## Ideen
 
 * Kenne den Zklus und die Wellen - damit du dich darauf vorbereiten kannst.
