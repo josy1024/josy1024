@@ -23,5 +23,5 @@ ich kombiniere strategisches Denken und echter technischer Neugier.
 * OUTCOME: der Hebel ist wichtiger als die Tätigkeit
 * WIE Betreiben?
 * Zukunftsfähige Systeme erschaffen auf Basis [ITArchitektur mit JOSY](/ITArchitektur_mit_JOSY.md)
-* Was funktioniert? (Pragmatismus gewinnt vor Schönheit)
+* Was funktioniert? (Ethischer Pragmatismus gewinnt vor Schönheit) - hocheffizienten Lösungen, aber niemals auf dem Rücken derer, die das System bedienen, mit dir leben oder für dich arbeiten müssen.
 * Gestaltung mit [Werkzeugen, Software & Bibliotheken](/software.md) Bibliotheken und nicht alles neu erfinden!
