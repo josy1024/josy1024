@@ -19,9 +19,9 @@
 ich kombiniere strategisches Denken und echter technischer Neugier.
 
 * ich bin **neugierig** 
-* selbst lernen mit PRAXIS (/legend.md)
+* selbst lernen mit [PRAXIS siehe Legend...](/legend.md)
 * OUTCOME: der Hebel ist wichtiger als die Tätigkeit
 * WIE Betreiben?
-* Zukunftsfähige Systeme erschaffen auf Basis (/ITArchitektur_mit_JOSY.md)
+* Zukunftsfähige Systeme erschaffen auf Basis [ITArchitektur mit JOSY](/ITArchitektur_mit_JOSY.md)
 * Was funktioniert? (Pragmatismus gewinnt vor Schönheit)
-* Gestaltung mit Werkzeugen (/software.md) Bibliotheken und nicht alles neu erfinden!
+* Gestaltung mit [Werkzeugen, Software & Bibliotheken](/software.md) Bibliotheken und nicht alles neu erfinden!
