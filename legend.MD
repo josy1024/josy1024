@@ -1,3 +1,9 @@
+## Balance Patterns
+* Technik <> Business
+* Menschen <> Systeme
+* Heute <> Zukunft
+* Betrieb <> Innovation
+
 ## Software Entwicklung - Reduziere “waste” (Verschwendung) mit Lean 
  * **unvollständige Software/Scripte** (nicht lauffähig, partially done work) 
  * **Code / Features, die nicht gebraucht wird** (extra features) 
