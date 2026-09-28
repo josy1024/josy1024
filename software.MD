@@ -13,3 +13,15 @@
 * **Breite**: Cross-Plattformtauglich (PC/Mac/Mobil/iPhone)? (SharePoint, Teams, ...)?
 * **Finanzen**: Wie sieht es aus mit Anschaffungs- (CAPEX) /Folgekosten/Wartungskosten? (OPEX). Welche Schulungsmaßnahmen sind erforderlich? (CAPEX). Wartungspläne für die nächsten Jahre (Updates, Upgrades) (OPEX). Ausgabenrechnung auf 10 Jahre?
 * **API**: Welche Schnittstellen liefert die Software mit? Automatisierung/Tools. Wie läuft die Integration in andere Systeme? (Prozesse, Projekte) JDF?! IPv6-tauglich, Firewall-Netzwerk / Segmentierung / Internet. Reporting/Statistik/Big Data?
+
+## kenne deine eigenen patterns
+
+ich kombiniere strategisches Denken und echter technischer Neugier.
+
+* ich bin **neugierig** 
+* selbst lernen mit PRAXIS (/legend.md)
+* OUTCOME: der Hebel ist wichtiger als die Tätigkeit
+* WIE Betreiben?
+* Zukunftsfähige Systeme erschaffen auf Basis (/ITArchitektur_mit_JOSY.md)
+* Was funktioniert? (Pragmatismus gewinnt vor Schönheit)
+* Gestaltung mit Werkzeugen (/software.md) Bibliotheken und nicht alles neu erfinden!
