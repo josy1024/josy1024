@@ -38,9 +38,20 @@
 * **KISS:** (keep it small and simple)
 * **devop:** (develop and run!)
 * **backcasting:** stell dir vor du bist schon da und gehst zurück!
+* **BIT** Business and IT Diagramm (Storage, Net, Client/Server, OS, HW, VM/Container, Service, Apps, Process)
+* Schnittstellen: Datenflussdiagram und Prozessflussdiagramm
+* **3-2-1 Backup** Rule
 
 ## Prinzipien
+* **PRAXIS**
+  # Problem definieren
+  # Recherche (Verstehen)
+  # Ausprobieren
+  # X-faches Testen
+  # Iterieren (Verbessern)
+  # Standardisieren
 
+* **SSOT**: What is the Single Source of Truth?
 * **_kanban:_** Projekt/Task Abwicklung in Schwimmbahn Prinzip
 * **okr:** objective and key results, (3M cycle: Planning, Weekly, Review, Retro) 
 * **moals:** (Mid term goals) Langzeitziele
@@ -62,13 +73,7 @@ Approach every task like a beginner with the same curiosity as if you were doing
 * **WABISABI**  
 Embrace imperfection instead of stressing over every little detail. Taking action is better than waiting for perfection, because it is often unattainable.
 
-* **PRAXIS**
-		○ Problem definieren
-		○ Recherche (Verstehen)
-		○ Ausprobieren
-		○ X-faches Testen
-		○ Iterieren (Verbessern)
-		○ Standardisieren
+
 
 ## Ideen
 
