@@ -16,7 +16,7 @@
 - Head of company IT: built and ran IT for 100+ users across multiple sites (lower and upper Austria), with 100+ systems in 24x7 operation
 - Designed and built a .NET REST/API middleware connecting line-of-business apps with finance and M365/Office
 - Built an automation framework on top of it (SharePoint, PowerShell) that solves everyday tasks for users and clients
-- "Deployinator": infrastructure as code, rapid code shipping, automated deployments
+- "Deployinator Powershell": infrastructure as code, rapid code shipping, automated deployments
 
 ## How I think
 - **The Simple Josy Test:** How much needless, repetitive work is left? Can we see what's happening? What happens when something fails? Does it really help the business? → [IT architecture with Josy](ITArchitektur_mit_JOSY.MD)
@@ -36,8 +36,12 @@ Not actively looking, but happy to talk if the problem is interesting.
 
 **New in use**
 - Logging & ticketing: Graylog, Zammad
-- AI in operations: Claude, Gemini, GitHub Copilot, MCP integration
-
+- AI in operations: Claude, Microsoft Copilot, GitHub Copilot, HomeAssistant Node-Red Automation Refactoring with MCP integration
+- Client Support Code Repo [RelaxedIT Powershell Modules](https://github.com/josy1024/RelaxedIT)
+- using Gemini for some audio c# .net projects:
+  - **tapsynth** lightweight sample‑audio‑synth https://github.com/josy1024/tapsynth
+  - **audiosynth** is a simple keyboard pressed audio tone generator https://github.com/josy1024/audiosynth
+    
 **Currently in use (development & reporting)**
 - C#, .NET, Blazor, Power BI
 
@@ -45,8 +49,8 @@ Not actively looking, but happy to talk if the problem is interesting.
 - Identity & Windows: Active Directory, Group Policy, Microsoft 365, Hyper-V, Defender
 - Linux & containers: Rocky Linux, Docker, Podman
 - Monitoring: Icinga, Grafana
-- Data: SQL, MariaDB
-- Automation & interfaces: PowerShell, REST/API, JSON, Puppet
+- Data: SQL, MariaDB, MSSQL
+- Automation & interfaces: PowerShell, REST/API, JSON, Puppetlabs
 - Network & security: Fortinet, Cisco, Pi-hole
 - Smart home: Home Assistant
 
@@ -56,7 +60,8 @@ Not actively looking, but happy to talk if the problem is interesting.
 - Debin → CentOS → Rocky Linux
 - MySQL → MariaDB
 - XenServer → HyperV
-- iptables, PHP, Debian, GoHugo, XenServer (no longer in use)
+- iptables, Debian, GoHugo, XenServer (no longer in use)
+- LAMP, HTML, PHP → Mediawiki, Wordpress 
  
 **LineOfBusiness**
 - Printplus.ch, BMD.com
