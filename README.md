@@ -1,5 +1,3 @@
-[About Me in German, (über mich auf Deutsch)](/ÜberMich.md)
-
 - 👋 Hi, I’m @josy1024 👋
 
 **I help connect business and IT, and turn that into pragmatic, automated, fault-tolerant operations.**
@@ -7,7 +5,7 @@
 `AUTOMATE` · `TRANSPARENT` · `ROBUST`
 *Robust means error-tolerant and self-healing. That's what I call RelaxedIT.*
 
-Head of company IT · Gugler GmbH 2001–2024, Gugler Medien GmbH since 2024 · Mühldorf, Austria · [LinkedIn](https://www.linkedin.com/in/josy1024/) · [Über mich auf Deutsch](https://github.com/josy1024/josy1024/blob/main/%C3%9CberMich.md)
+Head of company IT · Gugler GmbH 2001–2024, Gugler Medien GmbH since 2024 · Mühldorf, Austria · [LinkedIn](https://www.linkedin.com/in/josy1024/) · [Über mich auf Deutsch](/ÜberMich.md)
 
 ## What I've done
 - Grew with the company: IT sysadmin → team lead → head of IT (2001–2024), then continued at Gugler Medien GmbH
@@ -89,9 +87,9 @@ Not actively looking, but happy to talk if the problem is interesting.
   * 2015: Implementing Microsoft Azure Infrastructure Solutions
 
 ## Beyond IT
-- 👀 interested in: standup paddle boarding, mtb to slacklineing, diy-projecs, [cnc milling](https://www.etsy.com/shop/cncsandbox), [3dprinting](https://github.com/josy1024/GCodePlayground),  playing guitar and ukulele
-- 🌱 i'm currently learning how to deal with parenting, c#, creating custom minecraft packs
-- 💞️ I’m looking to collaborate on homeassistent and smartmeter integration [home-automation-guide...](https://github.com/josy1024/home-automation-guide)
+- 👀 interested in: standup paddle boarding, MTB, slacklineing, DIY projects, [cnc milling](https://www.etsy.com/shop/cncsandbox), [3dprinting](https://github.com/josy1024/GCodePlayground),  playing guitar and ukulele
+- 🌱 I'm currently learning how to deal with parenting, c#, creating custom minecraft packs
+- 💞️ I'm looking to collaborate on Home Assistant and smartmeter integration [home-automation-guide...](https://github.com/josy1024/home-automation-guide)
 - have beginner experiences in 🏄‍♂️surfing and kayak. 
 
 ## Contact
