@@ -10,16 +10,36 @@
   * https://www.instagram.com/josef1024/
   * https://www.twitter.com/josy1024
 
+### Technical Toolbox (as of October 2026)
 
+> Tools change, principles stay. This list is a snapshot.
+
+**New in use**
+- Logging & ticketing: Graylog, Zammad
+- AI in operations: Claude, Gemini, GitHub Copilot, MCP integration
+
+**Currently in use (development & reporting)**
+- C#, .NET, Blazor, Power BI
+
+**Proven**
+- Identity & Windows: Active Directory, Group Policy, Microsoft 365, Hyper-V, Defender
+- Linux & containers: Rocky Linux, Docker, Podman
+- Monitoring: Icinga, Grafana
+- Data: SQL, MariaDB
+- Automation & interfaces: PowerShell, REST/API, JSON, Puppet
+- Network & security: Fortinet, Cisco, Pi-hole
+- Smart home: Home Assistant
+
+**Replaced**
+- Nagios → Icinga
+- OTRS → Zammad
+- CentOS → Rocky Linux
+- MySQL → MariaDB
+- XenServer → HyperV
+- iptables, PHP, Debian, GoHugo, XenServer (no longer in use)
  
-- my Current / Preferred Tech Stack Knowledge: 
-  * Windows: HyperV, Microsoft365
-  * Linux: Centos, Rocky, PuppetLabs, Podman, Raspian, Apache, LAMP
-  * Data: MSSQL, MYSQL, PowerBI 
-  * Code: vscode, Powershell, c#, SQL, REST/API, JSON, gohugo
-  * Service & Monitoring: Icinga, Otrs
-  * LineOfBusiness: Printplus.ch, BMD.com
-  * Security, Network: Fortinet, Cisco, Defender, iptables
+**LineOfBusiness**
+- Printplus.ch, BMD.com
     
 - some time ago:
   * 2000: HTBLuVA St Pölten Abteilung Elektrotechnik
