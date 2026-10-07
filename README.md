@@ -8,7 +8,7 @@
 Head of company IT · Gugler GmbH 2001–2024, Gugler Medien GmbH since 2024 · Mühldorf, Austria · [LinkedIn](https://www.linkedin.com/in/josy1024/) · [Über mich auf Deutsch](/ÜberMich.md)
 
 ## What I've done
-- Grew with the company: IT sysadmin → team lead → head of IT (2001–2024), then continued at Gugler Medien GmbH
+- Grew with the company: IT sysadmin → team lead → head of IT
 - Built and ran IT for 100+ users across multiple sites (lower and upper Austria), with 100+ systems in 24x7 operation
 - Designed and built a .NET REST/API middleware connecting line-of-business apps with finance and M365/Office
 - Built an automation framework on top of it (SharePoint, PowerShell) that solves everyday tasks for users and clients
