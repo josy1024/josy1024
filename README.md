@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josy1024 👋
+👋 Hi, I’m @josy1024 👋
 
 **I help connect business and IT, and turn that into pragmatic, automated, fault-tolerant operations.**
 
