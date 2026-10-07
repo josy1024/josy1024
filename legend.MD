@@ -44,12 +44,12 @@
 
 ## Prinzipien
 * **PRAXIS**
-  # Problem definieren
-  # Recherche (Verstehen)
-  # Ausprobieren
-  # X-faches Testen
-  # Iterieren (Verbessern)
-  # Standardisieren
+** Problem definieren
+** Recherche (Verstehen)
+** Ausprobieren
+** X-faches Testen
+** Iterieren (Verbessern)
+** Standardisieren
 
 * **SSOT**: What is the Single Source of Truth?
 * **_kanban:_** Projekt/Task Abwicklung in Schwimmbahn Prinzip
